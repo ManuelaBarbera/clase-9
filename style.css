@@ -1,0 +1,21 @@
+table {
+    border: 1px solid grey
+}
+
+table, td, th { border-collapse: collapse;
+                padding: 10px;
+                border: 1px solid grey;
+            
+}
+
+th {
+    text-align: center;
+    color: white;
+    background-color: #3CB371; 
+
+}
+
+}
+tr:nth-child(odd) {background-color: #d3d3d3
+
+}
